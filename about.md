@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "好好学习，天天向上 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+一位正在学习it技术的同学。。
 
 
 

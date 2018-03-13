@@ -10,13 +10,6 @@ description: 文章金句。
 ## 欢迎来到我的博客
 博客搭建成功了，感谢大神的分享！
 
-#jjjj
-jkoljhb
-
-
-########hahah
-hahaha
-
 
 
 
